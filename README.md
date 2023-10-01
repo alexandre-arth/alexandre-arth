@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexandre-arth
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 How to reach me arthurmalexandre@hotmail.com
